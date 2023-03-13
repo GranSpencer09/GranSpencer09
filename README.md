@@ -3,9 +3,9 @@
 
 - 🧑‍💼 I’m currently working on [My Professional Portfolio Website](https://www.spencer-gran.com/)
 
-- 💡 I’m currently learning **React**
+- 💡 I’m currently helping build secure cloud infrastructure on AWS, Azure, GCP at **DuploCloud**
 
-- 📫 How to reach me **Granspencer09@gmail.com**
+- 📫 How to reach me **Spencer@DuploCloud.net**
 
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/spencer-gran/)
 
