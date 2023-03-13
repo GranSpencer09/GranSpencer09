@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🎃 I'm Spencer Gran</h1>
+<h1 align="center">Hi I'm Spencer Gran</h1>
 <h3 align="center">A full-stack developer from San Francisco, CA</h3>
 
 - 🧑‍💼 I’m currently working on [My Professional Portfolio Website](https://www.spencer-gran.com/)
